@@ -27,9 +27,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DizzyDesu&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](readme-stats-eta-orpin.vercel.app/api?username=DizzyDesu&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DizzyDesu&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DizzyDesu&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](readme-stats-eta-orpin.vercel.app/api/top-langs/?username=DizzyDesu&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
 
