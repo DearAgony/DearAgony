@@ -1,7 +1,7 @@
 <div align="center">
 
 #  About Me:
-🔭 I’m currently working on expanding my skills and knowledge<br><br>🌱 Currently learning React.<br><br> 🙌 Feel free to ask me about anything related to my projects.<br><br>⚡ I managed to understand html and css in under 1 month.<br><br>🤖 All past projects can be found at [portfolio-in-progress]
+🔭 I’m currently working on expanding my skills and knowledge<br><br>🌱 Currently learning React.<br><br> 🙌 Feel free to ask me about anything related to my projects.<br><br>⚡ I managed to understand html and css in under 1 month.<br><br>📖 All past projects can be found at [portfolio-in-progress]
 
 </div>  
 
