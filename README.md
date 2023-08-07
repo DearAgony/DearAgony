@@ -1,14 +1,13 @@
 <div align="center">
 
 #  About Me:
-🔭 I’m currently working on expanding my skills and knowledge<br><br>🌱 Currently learning C++<br><br> 🙌 Feel free to ask me about anything related to my projects.<br><br>⚡ I managed to understand html and css in under 1 month.<br><br>📖 All past projects can be found at https://s8cred.github.io/eportfolio/
-
+🔭 I’m currently working on expanding my skills and knowledge<br><br>🌱 Currently learning C++<br><br> 🙌 Feel free to ask me about anything related to my projects.<br><br>⚡ I managed to understand html and css in under 1 month.<br><br>📖 All past projects can be found at 
 </div>  
 
 <div align="center">
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serenity-slayer-a14ab026b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akaSacred)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serenity-slayer-a14ab026b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abysseru)
 
 </div>  
 
