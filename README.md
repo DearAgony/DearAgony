@@ -7,7 +7,7 @@
 <div align="center">
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serenity-slayer-a14ab026b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abysseru)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serenity-slayer-a14ab026b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Starstrukku)
 
 </div>  
 
@@ -26,9 +26,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Emmiru&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Emmiru&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmiru&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Starstrukku&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Starstrukku&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Starstrukku&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
 
