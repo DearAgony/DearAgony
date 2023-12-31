@@ -1,6 +1,7 @@
 <div align="center">
 
 #  About Me:
+I'm a detail-oriented cyberseuciryt professional dedicated to protecting organizations and the people they serve. Knowledgable about NIST frameworks and able to implement security controls to ensure compliance with internation regulations related to data protection. Experience with identifying threats, risks, and vulnerabilitises; security hardening; threat modeling; and incident escalation and response. Proficient in the use of of linux command line, SQL, python, strong communication and problem-solving skills.
 
 </div>  
 
