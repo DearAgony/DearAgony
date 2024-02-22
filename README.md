@@ -1,9 +1,4 @@
-<div align="center">
 
-#  About Me:
-I'm a detail-oriented cybersecurity professional dedicated to protecting organizations and the people they serve. Knowledgable about NIST frameworks and able to implement security controls to ensure compliance with internation regulations related to data protection. Experience with identifying threats, risks, and vulnerabilitises; security hardening; threat modeling; and incident escalation and response. Proficient in the use of of linux command line, SQL, python, strong communication and problem-solving skills.
-
-</div>  
 
 <div align="center">
 
@@ -29,9 +24,9 @@ I'm a detail-oriented cybersecurity professional dedicated to protecting organiz
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IdleDeathGamble&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IdleDeathGamble&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IdleDeathGamble&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=S8cred&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=S8cred&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=S8cred&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
 
@@ -42,6 +37,6 @@ I'm a detail-oriented cybersecurity professional dedicated to protecting organiz
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=IdleDeathGamble&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=S8cred&icon=2&color=1)](https://visitcount.itsvg.in)
 
 </div>  
