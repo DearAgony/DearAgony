@@ -2,7 +2,7 @@
 
 <h2>👩‍💻 Software Development Projects:</h2>
 - [Active Directory Bulk User Creation](https://github.com/S8cred/AD_PS) <br/>
-- [JWipe (Disk Wiping Utility)](https://github.com/S8cred/SWipe.PowerShell)
+- [SWipe (Disk Wiping Utility)](https://github.com/S8cred/SWipe.PowerShell)
 
 <div align="center">
 
