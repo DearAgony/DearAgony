@@ -1,8 +1,8 @@
-<h1>Hi, I'm Storm! <br/><a href="https://github.com/S8cred">Programmer</a>, <a href="https://www.linkedin.com/in/St0rm/">Cybersecurity Professional</a>
+<h1>Hi, I'm Storm! <br/><a href="https://github.com/Shdowz">Programmer</a>, <a href="https://www.linkedin.com/in/Shdow/">Cybersecurity Professional</a>
 
 <h2>👩‍💻 Software Development Projects:</h2>
-- [Active Directory Bulk User Creation](https://github.com/S8cred/AD_PS) <br/>
-- [SWipe (Disk Wiping Utility)](https://github.com/S8cred/SWipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/Shdowz/AD_PS) <br/>
+- [SWipe (Disk Wiping Utility)](https://github.com/Shdowz/SWipe.PowerShell)
 
 <div align="center">
 
