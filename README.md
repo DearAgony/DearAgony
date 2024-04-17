@@ -35,6 +35,6 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=S8cred&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shdowz&icon=2&color=1)](https://visitcount.itsvg.in)
 
 </div>  
