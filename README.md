@@ -1,6 +1,6 @@
 <h2>👩‍💻 Software Development Projects:</h2>
-- [Active Directory Bulk User Creation](https://github.com/Shdowz/AD_PS) <br/>
-- [SWipe (Disk Wiping Utility)](https://github.com/Shdowz/SWipe.PowerShell)
+- [Active Directory Bulk User Creation](https://github.com/DearAgony/AD_PS) <br/>
+- [SWipe (Disk Wiping Utility)](https://github.com/DearAgony/SWipe.PowerShell)
 
 <div align="center">
 
