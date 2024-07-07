@@ -1,5 +1,3 @@
-<h1>Hi, I'm Storm! <br/><a href="https://github.com/Shdowz">Programmer</a>, <a href="https://www.linkedin.com/in/Shdow/">Cybersecurity Professional</a>
-
 <h2>👩‍💻 Software Development Projects:</h2>
 - [Active Directory Bulk User Creation](https://github.com/Shdowz/AD_PS) <br/>
 - [SWipe (Disk Wiping Utility)](https://github.com/Shdowz/SWipe.PowerShell)
@@ -22,9 +20,9 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shdowz&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shdowz&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shdowz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=DearAgony&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DearAgony&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DearAgony&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
 
